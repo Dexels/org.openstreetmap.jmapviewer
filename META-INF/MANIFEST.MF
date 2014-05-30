@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jmapviewer
+Bundle-SymbolicName: org.openstreetmap.jmapviewer
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: javax.imageio,
+ javax.swing,
+ javax.swing.event,
+ javax.swing.tree,
+ javax.xml,
+ javax.xml.bind,
+ javax.xml.parsers,
+ javax.xml.xpath
